@@ -8,12 +8,12 @@ The simulations consider a pipe bend with a curvature radius seven times the pip
 
 ## Simulation Parameters
 
-* **Geometry:** 90° pipe bend
-* **Radius-to-diameter ratio:** \(R/D = 7\)
-* **Reynolds number:** \(Re = 34132\)
-* **Turbulence models:** Standard \(k\text{-}\varepsilon\), \(k\text{-}\omega\), Spalart–Allmaras, and Reynolds Stress Model (RSM)
-* **Spatial discretization:** First-order and second-order schemes
-* **Evaluation locations:** 45° and 75° along the bend
+* **Geometry: 90° pipe bend
+* **Radius-to-diameter ratio: R/D = 7
+* **Reynolds number: Re = 34,132
+* **Turbulence models: Standard k-ε, k-ω, Spalart–Allmaras, and Reynolds Stress Model (RSM)
+* **Spatial discretization: First-order and second-order schemes
+* **Evaluation locations: 45° and 75° along the bend
 
 ## Objectives
 
