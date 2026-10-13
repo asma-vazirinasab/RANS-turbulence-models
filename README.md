@@ -4,7 +4,7 @@
 
 This project investigates turbulent flow through a 90° pipe bend using Computational Fluid Dynamics (CFD). The study evaluates the performance of different turbulence models and spatial discretization schemes in predicting the flow field and velocity distribution within the bend.
 
-The simulations consider a pipe bend with a curvature radius seven times the pipe diameter (\(R/D = 7\)) at a Reynolds number of 34,132. Four turbulence models are examined: the standard \(k\text{-}\varepsilon\), \(k\text{-}\omega\), Spalart–Allmaras, and Reynolds Stress Model (RSM). First- and second-order spatial discretization schemes are considered to assess their influence on the numerical predictions.
+The simulations consider a pipe bend with a curvature radius seven times the pipe diameter (\(R/D = 7\)) at a Reynolds number of 34,132. Four turbulence models are examined: the standard k-ε, k-ω, Spalart–Allmaras, and Reynolds Stress Model (RSM). First- and second-order spatial discretization schemes are considered to assess their influence on the numerical predictions.
 
 ## Simulation Parameters
 
